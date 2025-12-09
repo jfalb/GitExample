@@ -9,5 +9,7 @@ public class App {
             System.out.print("next value: ");
             System.out.println("i == " + i);
         }
+
+        new Loop().loop();
     }
 }
